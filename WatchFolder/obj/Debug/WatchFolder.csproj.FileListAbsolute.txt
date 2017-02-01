@@ -10,3 +10,16 @@ C:\Users\rajiv_yanamandra.DC01\documents\visual studio 2015\Projects\WatchFolder
 C:\Users\rajiv_yanamandra\Documents\Visual Studio 2015\Projects\WatchFolder\WatchFolder\WatchFolder\bin\Debug\WatchFolder.exe.config
 C:\Users\rajiv_yanamandra\Documents\Visual Studio 2015\Projects\WatchFolder\WatchFolder\WatchFolder\obj\Debug\WatchFolder.exe
 C:\Users\rajiv_yanamandra\Documents\Visual Studio 2015\Projects\WatchFolder\WatchFolder\WatchFolder\obj\Debug\WatchFolder.pdb
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\WatchFolder.exe.config
+D:\GitProjectsRepo\WatchFolder\WatchFolder\obj\Debug\WatchFolder.exe
+D:\GitProjectsRepo\WatchFolder\WatchFolder\obj\Debug\WatchFolder.pdb
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\WatchFolder.exe
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\WatchFolder.pdb
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\RY.Utilities.Data.SqlClient.dll
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\Toolbox.FileManager.dll
+D:\GitProjectsRepo\WatchFolder\WatchFolder\obj\Debug\WatchFolder.Form1.resources
+D:\GitProjectsRepo\WatchFolder\WatchFolder\obj\Debug\WatchFolder.csproj.GenerateResource.Cache
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\FujiXerox.co.nz.FolderWatch.dll
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\RY.Utilities.Logger.dll
+D:\GitProjectsRepo\WatchFolder\WatchFolder\bin\Debug\FujiXerox.co.nz.FolderWatch.pdb
+D:\GitProjectsRepo\WatchFolder\WatchFolder\obj\Debug\WatchFolder.csprojResolveAssemblyReference.cache

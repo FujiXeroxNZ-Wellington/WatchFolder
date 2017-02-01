@@ -1,0 +1,6 @@
+D:\GitProjectsRepo\WatchFolder\FujiXerox.co.nz.FolderWatch\bin\Debug\FujiXerox.co.nz.FolderWatch.dll
+D:\GitProjectsRepo\WatchFolder\FujiXerox.co.nz.FolderWatch\bin\Debug\FujiXerox.co.nz.FolderWatch.pdb
+D:\GitProjectsRepo\WatchFolder\FujiXerox.co.nz.FolderWatch\bin\Debug\RY.Utilities.Logger.dll
+D:\GitProjectsRepo\WatchFolder\FujiXerox.co.nz.FolderWatch\obj\Debug\FujiXerox.co.nz.FolderWatch.dll
+D:\GitProjectsRepo\WatchFolder\FujiXerox.co.nz.FolderWatch\obj\Debug\FujiXerox.co.nz.FolderWatch.pdb
+D:\GitProjectsRepo\WatchFolder\FujiXerox.co.nz.FolderWatch\bin\Debug\RY.Utilities.Data.SqlClient.dll
